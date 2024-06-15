@@ -5,19 +5,19 @@ small description
 
 
 
-## Table of Contents
+## Table of Contents:
 
-Introduction
-Features
-How to Use
-Contributing
-License
+- [Introduction](#introduction)
+- [Features](#features)
+- [How to Use/Installation](#how-to-useinstallation)
+- [How It Works](#how-it-works)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
 small intro
 
 ## Features
-
 what the software does
 
 ## How to Use/Installation
@@ -30,7 +30,7 @@ small set of instuctions
 echo "Hello, World!"
 ```
 
--Clone the repository:
+1) Clone the repository:
 
 bash
 ```bash
@@ -39,7 +39,7 @@ git clone https://github.com/SrAndersson-theVoidLord/Passwgenerator1.0.git
 cd Passwgenerator1.0
 
 ```
--Compile the Program:
+2) Compile the Program:
 
 bash
 ```bash
@@ -47,7 +47,7 @@ Copy code
 g++ password_generator.cpp -o password_generator
 ```
 
--Run the Program:
+3) Run the Program:
 
 bash
 Copy code
