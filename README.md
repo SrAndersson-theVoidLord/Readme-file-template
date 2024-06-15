@@ -20,7 +20,7 @@ small intro
 
 what the software does
 
-## How to Use
+## How to Use/Installation
 
 small set of instuctions
 
