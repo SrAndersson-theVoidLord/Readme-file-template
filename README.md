@@ -67,10 +67,10 @@ small technical explanation of what it does
 
 If you'd like to contribute to the project, feel free to fork the repository, make your changes, and submit a pull request. Any improvements or suggestions are highly appreciated.
 
-1)Fork the project.
-2)Create a new branch.
-3)Make your changes and commit them.
-4)Submit a pull request.
+-   Fork the project.
+-   Create a new branch.
+-   Make your changes and commit them.
+-   Submit a pull request.
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.
