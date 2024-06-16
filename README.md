@@ -7,12 +7,12 @@ small description
 
 ## Table of Contents:
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [How to Use/Installation](#how-to-useinstallation)
-- [How It Works](#how-it-works)
-- [Contributing](#contributing)
-- [License](#license)
+- [**Introduction**](#introduction)
+- [**Features**](#features)
+- [**How to Use/Installation**](#how-to-useinstallation)
+- [**How It Works**](#how-it-works)
+- [**Contributing**](#contributing)
+- [**License**](#license)
 
 ## Introduction
 small intro
@@ -21,6 +21,11 @@ small intro
 what the software does
 
 ## How to Use/Installation
+
+ | S.O.  | Version |
+ | ----- | --- |
+ | Windows  | 7,8,vista,10  |
+ | Linux | DEBIAN, GENTOO,  |
 
 small set of instuctions
 
