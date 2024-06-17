@@ -25,7 +25,7 @@ what the software does
  | S.O.  | Version |
  | ----- | --- |
  | Windows  | 7,8,vista,10  |
- | Linux | DEBIAN, GENTOO,  |
+ | Linux |  [**Debian**](#debian), [**Gentoo**](#gentoo),  |
 
 small set of instuctions
 
@@ -34,14 +34,14 @@ small set of instuctions
 
 echo "Hello, World!"
 ```
-
+## Debian
 1) Clone the repository:
 
 bash
 ```bash
 #!/bin/bash
-git clone https://github.com/SrAndersson-theVoidLord/Passwgenerator1.0.git
-cd Passwgenerator1.0
+git clone https://github.com/username/repositoryname.git
+cd repositoryname
 
 ```
 2) Compile the Program:
@@ -49,7 +49,7 @@ cd Passwgenerator1.0
 bash
 ```bash
 Copy code
-g++ password_generator.cpp -o password_generator
+g++ repositoryname.cpp -o repositoryname
 ```
 
 3) Run the Program:
@@ -57,7 +57,34 @@ g++ password_generator.cpp -o password_generator
 bash
 Copy code
 ```bash
-./password_generator
+./repositoryname
+Enter Password Length:
+```
+
+## Gentoo
+1) Clone the repository:
+
+bash
+```bash
+#!/bin/bash
+git clone https://github.com/username/repositoryname.git
+cd repositoryname
+
+```
+2) Compile the Program:
+
+bash
+```bash
+Copy code
+g++ repositoryname.cpp -o repositoryname
+```
+
+3) Run the Program:
+
+bash
+Copy code
+```bash
+./repositoryname
 Enter Password Length:
 ```
 
