@@ -1,6 +1,6 @@
-# Title
+# Title of the Software Idea/ Web application.
 
-small description
+small description of what it does.
 
 
 
@@ -8,7 +8,9 @@ small description
 ## Table of Contents:
 
 - [**Introduction**](#introduction)
+- [**Technologies Used**](#technologies-used)
 - [**Features**](#features)
+- [**Requirements**](#requirements)
 - [**How to Use/Installation**](#how-to-useinstallation)
 - [**How It Works**](#how-it-works)
 - [**Contributing**](#contributing)
@@ -20,11 +22,30 @@ small intro
 ## Features
 what the software does
 
-## How to Use/Installation
+## Technologies Used: 
+
+Add the technologies you used to build the project/software/web-page, etc.
+Examples:
+- **C/C++.**
+- **P.O.O.**
+- **Binary Database.**
+
+Note: you can also add icons to represent each technology from the STACK.
+
+#### Requirements:
+All the extra things not included in the repo, required to run/compile the program, or the necesary libraries.
+
+Examples:
+
+-   GNU/GCC compiler(C++).
+-   Eclipse IDE(Java).
+-   Node.js (Javascript package).
+
+## How to Use/Installation:
 
  | S.O.  | Version |
  | ----- | --- |
- | Windows  | 7,8,vista,10  |
+ | Windows  | [**7,8,vista,10**](#windows)  |
  | Linux |  [**Debian**](#debian), [**Gentoo**](#gentoo),  |
 
 small set of instuctions
@@ -34,7 +55,30 @@ small set of instuctions
 
 echo "Hello, World!"
 ```
-## Debian
+-   ## Windows
+Basically Download the zip file, or clone the repository via the git bash promt.
+1) Clone the repository:
+
+bash
+```bash
+#!/bin/bash
+git clone https://github.com/username/repositoryname.git
+cd repositoryname
+
+```
+2) Compile the Program:
+
+bash
+```bash
+Copy code
+g++ repositoryname.cpp -o repositoryname
+```
+
+3) Run the Program:
+
+-   Execute the .exe file from the "bin" folder (after compiling it from the source code, of course...).
+
+-   ## Debian
 1) Clone the repository:
 
 bash
@@ -61,7 +105,7 @@ Copy code
 Enter Password Length:
 ```
 
-## Gentoo
+-   ## Gentoo
 1) Clone the repository:
 
 bash
